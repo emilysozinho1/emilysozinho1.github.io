@@ -19,10 +19,12 @@ TEXTAREA{
 #Z1, #qans{
     height:7%;
     width:8%;
+    font-size:11px;
 }
 #Z2, #Z3{
     height:7%;
     width:40%;
+    font-size:11px;
 }
 input{
     color:white;
