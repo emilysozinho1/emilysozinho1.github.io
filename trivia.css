@@ -17,13 +17,13 @@ TEXTAREA{
     font-size: 11px;
 }
 #Z1, #qans{
-    height:7%;
-    width:8%;
+    height:15px;
+    width:15px;
     font-size:11px;
 }
 #Z2, #Z3{
-    height:7%;
-    width:40%;
+    height:15px;
+    width:30px;
     font-size:11px;
 }
 input{
