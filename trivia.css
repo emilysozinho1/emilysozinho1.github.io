@@ -16,6 +16,14 @@ TEXTAREA{
     visibility:hidden;
     font-size: 11px;
 }
+#Z1, #qans{
+    height:10%;
+    width:10%;
+}
+#Z2, #Z3{
+    height:10%;
+    width:25%;
+}
 input{
     color:white;
     background-color:transparent;
