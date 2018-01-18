@@ -6,8 +6,8 @@ body{
 TEXTAREA{
     border:none;
     font-family:trebuchetms;
-    font-size:12px;
-    padding: 10px;
+    font-size:11px;
+    padding: 8px;
     color:white;
     background-color:transparent;
     text-align:center;
@@ -19,7 +19,7 @@ input{
     color:white;
     background-color:transparent;
     border-color:white;
-    font-size:12px;
+    font-size:11px;
 }
 form{
     font-size:50%;
@@ -29,6 +29,6 @@ form{
     color:white;
     background-color:transparent;
     border-color:white;
-    font-size:12px;
+    font-size:11px;
     width:15%;
 }
