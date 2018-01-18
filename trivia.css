@@ -17,12 +17,12 @@ TEXTAREA{
     font-size: 11px;
 }
 #Z1, #qans{
-    height:10%;
-    width:10%;
+    height:7%;
+    width:8%;
 }
 #Z2, #Z3{
-    height:10%;
-    width:25%;
+    height:7%;
+    width:40%;
 }
 input{
     color:white;
